@@ -58,6 +58,8 @@ That's it.
 
 ---
 
+<a id="ftf-releases"></a>
+
 ## 📦 FTF Releases
 
 FTF includes:
@@ -103,6 +105,8 @@ Practical guides and playbooks for MSP security.
 
 ---
 
+<a id="suggest-a-release"></a>
+
 ## 💡 Suggest a Release
 
 Have an idea for a future FTF release?
@@ -115,6 +119,8 @@ The ideas board lets you:
 - See what's coming next
 
 ---
+
+<a id="never-miss-a-drop"></a>
 
 ## 📬 Never Miss a Drop
 
