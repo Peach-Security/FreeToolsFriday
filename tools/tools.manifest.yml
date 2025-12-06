@@ -1,0 +1,18 @@
+# FTF Tools Manifest
+# This file tracks all released tools and their metadata
+
+tools:
+  - name: AIUsageDiscovery
+    description: Discover real AI usage across endpoints, browsers, extensions, and apps.
+    repo: https://github.com/Peach-Security/AIUsageDiscovery
+    release_date: 2025-01-01
+    category: ai-security
+    tags:
+      - powershell
+      - ai-discovery
+      - msp-tools
+      - endpoint-security
+    status: released
+
+# Planned tools can be added here with status: planned
+

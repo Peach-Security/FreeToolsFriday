@@ -1,0 +1,134 @@
+# Free Tools Friday (FTF) by Peach Security
+
+Free weekly tools, resources, and guides for MSPs. Useful. Practical. No hoops. No paywalls.
+
+*A new free MSP-focused release every Friday — tools, resources, or guides.*
+
+---
+
+## Why Free Tools Friday?
+
+Why we release free tools every Friday — and why it's worth paying attention.
+
+MSPs deal with real problems, real pressure, and not a lot of extra time.
+
+So here's the truth:
+
+Most tools in our industry are either overpriced, overcomplicated, or overhyped.
+
+And too often, you have to talk to three people and hand over your email just to find out if something even works.
+
+We're not doing that.
+
+Free Tools Friday (#FTF) is simple:
+
+Useful tools. Real problems solved. No hoops. No paywalls. Every Friday.
+
+That's it.
+
+👉 The full manifesto lives here: https://www.peachsecurity.io/ftf
+
+---
+
+## 📦 FTF Releases
+
+FTF includes:
+
+- **Tools** — PowerShell modules, scripts, small utilities
+- **Resources** — templates, checklists, client-ready materials
+- **Guides** — practical documentation and playbooks
+
+This repo is the **official index** for all FTF releases.
+Tools with real code live in their own repositories.
+
+---
+
+### 🛠️ Tools
+
+Free MSP tools and AI security tools released as part of Free Tools Friday.
+
+| Name | Description | Repo |
+|------|-------------|------|
+| **AIUsageDiscovery** | Discover real AI usage across endpoints, browsers, extensions, and apps. | https://github.com/Peach-Security/AIUsageDiscovery |
+
+---
+
+### 📁 Resources
+
+Free MSP resources including templates and checklists.
+
+| Name | Type | Description | Link |
+|------|------|-------------|------|
+| *(Coming soon)* | Template | AI Acceptable Use Policy (AUP) starter template | /releases/resources/templates/ai-aup.md |
+| *(Coming soon)* | Checklist | MSP AI-Security Discovery Checklist | /releases/resources/checklists/ai-security-discovery.md |
+
+---
+
+### 📘 Guides
+
+Practical guides and playbooks for MSP security.
+
+| Name | Description | Link |
+|------|-------------|------|
+| *(Coming soon)* | MSP AI Hardening Quickstart | /releases/guides/ai-security/hardening-guide.md |
+| *(Coming soon)* | How to talk to clients about AI risk | /releases/guides/ai-security/client-communication.md |
+
+---
+
+## 💡 Suggest a Release
+
+Have an idea for a future FTF release?
+
+👉 **Submit and vote on ideas:** https://www.peachsecurity.io/ftf
+
+The ideas board lets you:
+- Submit new tool, resource, or guide ideas
+- Vote on ideas from other MSPs
+- See what's coming next
+
+---
+
+## 📬 Never Miss a Drop
+
+Get notified every Friday when new tools, resources, and guides drop.
+
+👉 **Subscribe to weekly FTF releases:** https://www.peachsecurity.io/ftf
+
+---
+
+## 🤝 Join the FTF Community
+
+Discuss ideas, request releases, and share use cases.
+
+👉 **Join the FTF Slack Community:** [Join Slack](https://join.slack.com/t/peachsecurity-qhl2413/shared_invite/zt-3ka9yzhf9-LvvIYQqC5SXWbCNRJfJGRw)
+
+---
+
+## 🧪 Contributing
+
+- For tools: contribute in the tool's own repository
+- For resources & guides: contribute here
+- For new ideas: open an Issue
+
+See `CONTRIBUTING.md` for structure and rules.
+
+---
+
+## 🔗 Explore FTF on the Web
+
+Visit Peach Security's Free Tools Friday hub for more MSP tools and resources:
+
+https://www.peachsecurity.io/ftf
+
+---
+
+## About Peach Security
+
+Peach Security builds practical security solutions for MSPs. Free Tools Friday is our commitment to giving back to the MSP community with useful, no-strings-attached releases every week.
+
+---
+
+## Topics
+
+`msp` `msp-tools` `free-tools` `cybersecurity` `ai-security` `peach-security` `powershell-modules`
+
