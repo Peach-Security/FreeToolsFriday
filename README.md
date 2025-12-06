@@ -2,17 +2,31 @@
   <img src="https://raw.githubusercontent.com/Peach-Security/AIUsageDiscovery/main/images/peach-logo.png" height="100" alt="Peach Security Logo" />
 </p>
 
+<br/>
+
 <p align="center">
   <strong>Free Tools Friday (FTF) by Peach Security</strong><br/>
   <em>Useful tools. Real problems solved. No hoops. No paywalls.</em>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Release-Every%20Friday-brightgreen" alt="Weekly Release" />
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
-  <img src="https://img.shields.io/badge/Peach%20Security-FTF-orange" alt="Peach Security FTF" />
-  <img src="https://img.shields.io/badge/Includes-Tools%20%7C%20Resources%20%7C%20Guides-ff69b4" alt="Tools, Resources, Guides" />
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-success" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Release-Every%20Friday-2c5f2d" alt="Every Friday" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/License-MIT-f7d488" alt="MIT License" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Peach%20Security-FTF-ffb07c" alt="Peach Security FTF" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Includes-Tools%20%7C%20Resources%20%7C%20Guides-ffb07c" alt="Tools, Resources, Guides" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-2c5f2d" alt="Open Source" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/‎-‎-lightgray?style=flat-square" width="400" height="1" alt="" />
 </p>
 
 ---
@@ -26,6 +40,8 @@ Free weekly tools, resources, and guides for MSPs. Useful. Practical. No hoops. 
 ---
 
 ## Why Free Tools Friday?
+
+Here's why FTF exists — in our words, not marketing speak:
 
 Why we release free tools every Friday — and why it's worth paying attention.
 
