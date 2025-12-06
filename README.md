@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Peach-Security/AIUsageDiscovery/main/images/peach-logo.png" height="100" alt="Peach Security Logo" />
+</p>
+
+<p align="center">
+  <strong>Free Tools Friday (FTF) by Peach Security</strong><br/>
+  <em>Useful tools. Real problems solved. No hoops. No paywalls.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Release-Every%20Friday-brightgreen" alt="Weekly Release" />
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
+  <img src="https://img.shields.io/badge/Peach%20Security-FTF-orange" alt="Peach Security FTF" />
+  <img src="https://img.shields.io/badge/Includes-Tools%20%7C%20Resources%20%7C%20Guides-ff69b4" alt="Tools, Resources, Guides" />
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-success" alt="Open Source" />
+</p>
+
+---
+
 # Free Tools Friday (FTF) by Peach Security
 
 Free weekly tools, resources, and guides for MSPs. Useful. Practical. No hoops. No paywalls.
