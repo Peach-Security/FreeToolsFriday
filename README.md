@@ -1,43 +1,36 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Peach-Security/AIUsageDiscovery/main/images/peach-logo.png" height="100" alt="Peach Security Logo" />
+  <img src="https://raw.githubusercontent.com/Peach-Security/AIUsageDiscovery/main/images/peach-logo.png" height="140" alt="Peach Security Logo" />
 </p>
 
-<br/>
-
 <p align="center">
-  <strong>Free Tools Friday (FTF) by Peach Security</strong><br/>
-  <em>Useful tools. Real problems solved. No hoops. No paywalls.</em>
+  <strong>Free Tools Friday (FTF) by Peach Security</strong>
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Release-Every%20Friday-2c5f2d" alt="Every Friday" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/License-MIT-f7d488" alt="MIT License" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Peach%20Security-FTF-ffb07c" alt="Peach Security FTF" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Includes-Tools%20%7C%20Resources%20%7C%20Guides-ffb07c" alt="Tools, Resources, Guides" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/Release-Every%20Friday-2c5f2d" alt="Every Friday" style="margin-right: 6px;" />
+  <img src="https://img.shields.io/badge/License-MIT-f7d488" alt="MIT License" style="margin-right: 6px;" />
+  <img src="https://img.shields.io/badge/Peach%20Security-FTF-ffb07c" alt="Peach Security FTF" style="margin-right: 6px;" />
+  <img src="https://img.shields.io/badge/Includes-Tools%20%7C%20Resources%20%7C%20Guides-ffb07c" alt="Tools, Resources, Guides" style="margin-right: 6px;" />
   <img src="https://img.shields.io/badge/Open%20Source-Yes-2c5f2d" alt="Open Source" />
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/‎-‎-lightgray?style=flat-square" width="400" height="1" alt="" />
+  <em>Useful tools. Real problems solved. No hoops. No paywalls.</em>
 </p>
 
+<p align="center">
+  <a href="#-ftf-releases">Releases</a> •
+  <a href="#-suggest-a-release">Suggest an Idea</a> •
+  <a href="#-never-miss-a-drop">Subscribe</a> •
+  <a href="https://www.peachsecurity.io/ftf">Manifesto</a>
+</p>
+
+<br/>
+<br/>
+
 ---
 
-# Free Tools Friday (FTF) by Peach Security
-
-Free weekly tools, resources, and guides for MSPs. Useful. Practical. No hoops. No paywalls.
-
-*A new free MSP-focused release every Friday — tools, resources, or guides.*
-
----
+<br/>
 
 ## Why Free Tools Friday?
 
