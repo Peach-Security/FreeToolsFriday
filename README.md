@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="#-ftf-releases">Releases</a> •
-  <a href="#-suggest-a-release">Suggest an Idea</a> •
-  <a href="#-never-miss-a-drop">Subscribe</a> •
+  <a href="#ftf-releases">Releases</a> •
+  <a href="#suggest-a-release">Suggest an Idea</a> •
+  <a href="#never-miss-a-drop">Subscribe</a> •
   <a href="https://www.peachsecurity.io/ftf">Manifesto</a>
 </p>
 
