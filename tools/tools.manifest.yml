@@ -14,5 +14,17 @@ tools:
       - endpoint-security
     status: released
 
+  - name: AI Vendor Security Assessment
+    description: Interactive tool to assess AI vendor security posture before onboarding.
+    url: https://www.peachsecurity.io/ftf/ai-vendor-assessment
+    release_date: 2025-12-10
+    category: ai-security
+    tags:
+      - ai-security
+      - vendor-assessment
+      - interactive
+      - web-tool
+    status: released
+
 # Planned tools can be added here with status: planned
 

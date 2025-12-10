@@ -77,9 +77,10 @@ Tools with real code live in their own repositories.
 
 Free MSP tools and AI security tools released as part of Free Tools Friday.
 
-| Name | Description | Repo |
+| Name | Description | Link |
 |------|-------------|------|
 | **AIUsageDiscovery** | Discover real AI usage across endpoints, browsers, extensions, and apps. | https://github.com/Peach-Security/AIUsageDiscovery |
+| **AI Vendor Security Assessment** | Interactive tool to assess AI vendor security posture before onboarding. | https://www.peachsecurity.io/ftf/ai-vendor-assessment |
 
 ---
 
