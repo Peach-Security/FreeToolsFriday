@@ -81,7 +81,7 @@ Free MSP tools and AI security tools released as part of Free Tools Friday.
 |------|-------------|------|
 | **AIUsageDiscovery** | Discover real AI usage across endpoints, browsers, extensions, and apps. | https://github.com/Peach-Security/AIUsageDiscovery |
 | **AI Vendor Security Assessment** | Interactive tool to assess AI vendor security posture before onboarding. | https://www.peachsecurity.io/ftf/ai-vendor-assessment |
-| **PeachSanitize** | Strip sensitive data from JSON payloads before pasting into AI tools. PSGallery-installable PowerShell module, runs entirely locally. | https://github.com/Peach-Security/PeachSanitize |
+| **PeachSanitize** | Strip sensitive data from JSON payloads before pasting into AI tools. PSGallery-installable PowerShell module, runs entirely locally. | https://www.peachsecurity.io/ftf/peach-sanitize |
 
 ---
 

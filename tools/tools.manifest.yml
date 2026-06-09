@@ -28,6 +28,7 @@ tools:
 
   - name: PeachSanitize
     description: Sanitize sensitive data (API keys, tokens, emails, PII) from JSON payloads before pasting into AI tools. Runs entirely locally — no network calls.
+    url: https://www.peachsecurity.io/ftf/peach-sanitize
     repo: https://github.com/Peach-Security/PeachSanitize
     psgallery: https://www.powershellgallery.com/packages/PeachSanitize
     release_date: 2026-06-07

@@ -12,6 +12,7 @@ Tools with real code live in their own repositories. This index provides links a
 |------|-------------|------|
 | **AIUsageDiscovery** | Discover real AI usage across endpoints, browsers, extensions, and apps. | [GitHub](https://github.com/Peach-Security/AIUsageDiscovery) |
 | **AI Vendor Security Assessment** | Interactive tool to assess AI vendor security posture before onboarding. | [Try It](https://www.peachsecurity.io/ftf/ai-vendor-assessment) |
+| **PeachSanitize** | Strip sensitive data from JSON payloads before pasting into AI tools. PSGallery-installable PowerShell module, runs entirely locally. | [View Tool](https://www.peachsecurity.io/ftf/peach-sanitize) |
 
 ---
 
