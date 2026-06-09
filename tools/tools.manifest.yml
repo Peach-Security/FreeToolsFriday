@@ -26,5 +26,22 @@ tools:
       - web-tool
     status: released
 
+  - name: PeachSanitize
+    description: Sanitize sensitive data (API keys, tokens, emails, PII) from JSON payloads before pasting into AI tools. Runs entirely locally — no network calls.
+    repo: https://github.com/Peach-Security/PeachSanitize
+    psgallery: https://www.powershellgallery.com/packages/PeachSanitize
+    release_date: 2026-06-07
+    category: ai-security
+    tags:
+      - powershell
+      - json
+      - sanitize
+      - dlp
+      - pii
+      - ai-security
+      - msp-tools
+      - psgallery
+    status: released
+
 # Planned tools can be added here with status: planned
 
