@@ -10,7 +10,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Planned
 
-- AI Acceptable Use Policy (AUP) Template
 - MSP AI-Security Discovery Checklist
 - MSP AI Hardening Quickstart Guide
 - How to Talk to Clients About AI Risk Guide
@@ -18,6 +17,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ---
 
 ## 2026
+
+### Week 5 — AI AUP Generator (Jun 13, 2026)
+
+**Type:** Interactive Tool (web-based)
+
+**Description:** Generate a complete, print-ready AI Acceptable Use Policy for your clients in under 5 minutes. Covers permitted tools, data handling, employee responsibilities, incident reporting, and optional EU AI Act clauses.
+
+**URL:** https://www.peachsecurity.io/ftf/ai-aup-generator
+
+---
 
 ### Week 4 — PeachSanitize (Jun 7, 2026)
 

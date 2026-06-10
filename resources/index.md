@@ -10,7 +10,7 @@ Resources include templates, checklists, and client-ready materials for MSPs.
 
 | Name | Type | Description | Link |
 |------|------|-------------|------|
-| *(Coming soon)* | Template | AI Acceptable Use Policy (AUP) starter template | [ai-aup.md](/releases/resources/templates/ai-aup.md) |
+| **AI AUP Generator** | Interactive Tool | Generate a complete, print-ready AI Acceptable Use Policy for your clients in under 5 minutes. Covers permitted tools, data handling, employee responsibilities, incident reporting, and optional EU AI Act clauses. | [peachsecurity.io/ftf/ai-aup-generator](https://www.peachsecurity.io/ftf/ai-aup-generator) |
 | *(Coming soon)* | Checklist | MSP AI-Security Discovery Checklist | [ai-security-discovery.md](/releases/resources/checklists/ai-security-discovery.md) |
 
 ---

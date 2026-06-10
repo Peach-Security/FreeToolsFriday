@@ -10,7 +10,7 @@ This document outlines planned Free Tools Friday releases for 2025.
 - **AIUsageDiscovery** — Discover real AI usage across endpoints, browsers, extensions, and apps. ✅ Released
 
 ### Resources
-- AI Acceptable Use Policy (AUP) Template — *Planned*
+- AI Acceptable Use Policy (AUP) Template — ✅ Released as interactive tool ([AI AUP Generator](https://www.peachsecurity.io/ftf/ai-aup-generator))
 - MSP AI-Security Discovery Checklist — *Planned*
 
 ### Guides

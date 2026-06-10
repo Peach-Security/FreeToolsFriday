@@ -82,6 +82,7 @@ Free MSP tools and AI security tools released as part of Free Tools Friday.
 | **AIUsageDiscovery** | Discover real AI usage across endpoints, browsers, extensions, and apps. | https://github.com/Peach-Security/AIUsageDiscovery |
 | **AI Vendor Security Assessment** | Interactive tool to assess AI vendor security posture before onboarding. | https://www.peachsecurity.io/ftf/ai-vendor-assessment |
 | **PeachSanitize** | Strip sensitive data from JSON payloads before pasting into AI tools. PSGallery-installable PowerShell module, runs entirely locally. | https://www.peachsecurity.io/ftf/peach-sanitize |
+| **AI AUP Generator** | Generate a complete, print-ready AI Acceptable Use Policy for your clients in under 5 minutes. Covers permitted tools, data handling, employee responsibilities, incident reporting, and optional EU AI Act clauses. | https://www.peachsecurity.io/ftf/ai-aup-generator |
 
 ---
 
@@ -91,7 +92,7 @@ Free MSP resources including templates and checklists.
 
 | Name | Type | Description | Link |
 |------|------|-------------|------|
-| *(Coming soon)* | Template | AI Acceptable Use Policy (AUP) starter template | /releases/resources/templates/ai-aup.md |
+| **AI AUP Generator** | Interactive Tool | Generate a complete, print-ready AI Acceptable Use Policy for your clients in under 5 minutes. | https://www.peachsecurity.io/ftf/ai-aup-generator |
 | *(Coming soon)* | Checklist | MSP AI-Security Discovery Checklist | /releases/resources/checklists/ai-security-discovery.md |
 
 ---
